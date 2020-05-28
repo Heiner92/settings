@@ -1,0 +1,5 @@
+{
+    "cmd": ["C:/Program Files/WinPython-64bit-3.6.1.0Qt5/python-3.6.1.amd64/python.exe", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "quiet": true
+}
